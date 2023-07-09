@@ -1,0 +1,20 @@
+.container-card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.basico{
+    flex-basis: calc(33% - 10px);
+    width: 3rem;
+    
+    margin-bottom: 3rem;
+}
+.sectionButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10rem;
+}
+.principal{
+    margin-top: 2rem;
+}
